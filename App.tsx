@@ -79,8 +79,8 @@ const App: React.FC = () => {
           
           <div className="flex items-center gap-5">
             <img 
-              src="https://adtimin.vn/wp-content/uploads/2017/09/Logo-1.jpg" 
-              alt="Công ty PCHT Logo" 
+              src="https://raw.githubusercontent.com/Tiemapp/lib/main/image/logoevn.png" 
+              alt="Công ty Điện lực Hà Tĩnh Logo" 
               className="w-14 h-14 object-contain rounded-xl shadow-sm border border-white/50 dark:border-white/10"
             />
             <div className="flex flex-col">
