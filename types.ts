@@ -86,7 +86,7 @@ export const TRANSLATIONS: Record<UILang, UIContent> = {
     }
   },
   en: {
-    title: "Công ty PCHT",
+    title: "Công ty Điện lực Hà Tĩnh",
     subtitle: "WORK PRODUCTIVITY SUITE",
     tabs: {
       stt: "Audio to Text",
@@ -142,7 +142,7 @@ export const TRANSLATIONS: Record<UILang, UIContent> = {
     }
   },
   id: {
-    title: "Công ty PCHT",
+    title: "Công ty Điện lực Hà Tĩnh",
     subtitle: "SUITE PRODUKTIVITAS KERJA",
     tabs: {
       stt: "Suara ke Teks",
