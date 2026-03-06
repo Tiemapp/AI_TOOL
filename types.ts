@@ -30,7 +30,7 @@ export interface NewsArticle {
 
 export const TRANSLATIONS: Record<UILang, UIContent> = {
   vi: {
-    title: "Công ty PCHT",
+    title: "Công ty Điện lực Hà Tĩnh",
     subtitle: "BỘ CÔNG CỤ PHỤC VỤ CÔNG VIỆC",
     tabs: {
       stt: "Chuyển Âm thanh",
