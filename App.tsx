@@ -306,7 +306,7 @@ const App: React.FC = () => {
 
       <footer className="py-12 border-t border-gray-100 dark:border-gray-800 bg-white/40 dark:bg-gray-900/40 backdrop-blur-sm text-center relative z-10">
         <p className="text-gray-400 dark:text-gray-500 text-[11px] font-black uppercase tracking-[0.5em] opacity-60">
-          © 2026 DATACENTER VPTX • ADVANCED AI SYSTEMS
+          © 2026 PHONG KY THUAT • ADVANCED AI SYSTEMS
         </p>
       </footer>
     </div>
